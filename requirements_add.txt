@@ -1,0 +1,6 @@
+Librairies à chercher ou installer avec pip
+
+- wikitables
+  - mca
+  - sklearn
+    - fanalysis

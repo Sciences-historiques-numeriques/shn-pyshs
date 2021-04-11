@@ -1,0 +1,16 @@
+name: py38_pyhshs_livre
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+  - pathlib
+  - plotly
+  - matplotlib
+  - scipy
+  - pandas
+  - xlrd
+  - seaborn
+  - statsmodels
+  - patsy
