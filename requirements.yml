@@ -1,4 +1,4 @@
-name: py38_pyhshs_livre
+name: py38_pyshs
 channels:
   - conda-forge
   - defaults
